@@ -1,6 +1,6 @@
 ### Howdy friends! 👋
 
-I’m currently working on [Graph Out-Of-Distribution project](https://github.com/divelab/GOOD) 🎉
+I’m currently working on [Graph Out-Of-Distribution project](https://github.com/divelab/GOOD) and [LECI](https://github.com/divelab/LECI) 🎉
 
 🏠[Personal Website](https://cm-bf.github.io)
 |🎡[Twitter](https://twitter.com/ShuruiGui)
