@@ -5,7 +5,7 @@ I'm glad to e-meet you here. My research interests span from computer vision, gr
 #### Recent works
 - ICLR 2024: [Active Test-Time Adaptation: Theoretical Analyses and An Algorithm](https://github.com/divelab/ATTA) [**New!** 🎉]
 - TPAMI: [FlowX: Towards Explainable Graph Neural Networks via Message Flows](https://github.com/CM-BF/FlowX) [**New!** 🎉]
-- NeurIPS 2023: [Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization](https://github.com/divelab/LECI) [**New!** 🎉]
+- NeurIPS 2023: [Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization](https://github.com/divelab/LECI)
 - NeurIPS 2022: [Graph Out-Of-Distribution benchmark](https://github.com/divelab/GOOD)
 
 🏠[Personal Website](https://cm-bf.github.io)
